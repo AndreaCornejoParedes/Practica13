@@ -1,1 +1,0 @@
-Práctica 13 de Desarrollo de Aplicaciones
